@@ -13,7 +13,7 @@ REST est un style d'architecture logicielle qui facilite la communication entre 
 Dans l'univers REST, tout est considéré comme une ressource. Une ressource peut être n'importe quoi : un objet, un document, une image ou même un service. Chaque ressource est adressée par un URI (Uniform Resource Identifier) qui lui est propre. Par exemple :
 
 <pre>
-```js
+```javascript
 GET /api/users/123
 ```
 </pre>
